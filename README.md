@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Duong Ha, student at Vassa University of Applied Science, Software Engineering major. Currently, I am looking for an internship. 🎓 🎓 
+I am Duong Ha, student at Vassa University of Applied Science, Software Engineering major.🎓 🎓 
 
 My skills and experiences focus on front-end website development using languages, frameworks and libraries such as HTML, CSS, SCSS, Javascript, Bootstrap,JQuery, Reactjs, and Redux. 💻 💻 💻
 
