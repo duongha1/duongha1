@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Duong Ha, student at Vassa University of Applied Science, Software Engineering major.🎓 🎓 
+I am Duong Ha, student at Vassa University of Applied Science, Information Technology.🎓 🎓 
 
 My skills and experiences focus on front-end website development using languages, frameworks and libraries such as HTML, CSS, SCSS, Javascript, Bootstrap,JQuery, Reactjs, React Native and Redux. 💻 💻 💻
 
